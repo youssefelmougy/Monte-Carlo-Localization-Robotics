@@ -6,4 +6,7 @@ The monte_carlo_localization.ipynb notebook should be used on a Google Colab or 
 
 The following is the resulting movement of the robot with improvements using Monte Carlo Localization:
 
+https://user-images.githubusercontent.com/30897989/118403778-49761580-b670-11eb-847d-6f6b8edd9fea.mp4
 
+---
+Project done for CS 3630 at Georgia Tech
